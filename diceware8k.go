@@ -5,7 +5,7 @@ Derived from the  Diceware 8k Word List in C
 
 Arnold G. Reinhold 2000-10-23, rev. 2015-2-8
 
-To the extent that a word list is protected by copyright, A G Reinhold licenses its rights to the English Diceware Wordlist under the Creative Commons CC-BY 4.0 license. Other word list licenses are noted above.
+To the extent that a word list is protected by copyright, A G Reinhold licenses its rights to the English Diceware Wordlist under the Creative Commons CC-BY 4.0 license.
 
 Modified for Go and made very tame by Micah Stetson.
 The idea of taming is that I want to be able to use this list
